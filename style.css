@@ -1,0 +1,147 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body{
+  background-image: url(./images/light-city-blur-bokeh.jpg);
+  background-repeat: no-repeat;
+  background-size:cover ;
+  background-position: center center;
+}
+
+.conteudo {
+  display: flex;
+  display: center;
+  margin: 100px 500px;
+  padding: 50px 10px;
+
+  
+}
+
+
+.primeira-div-sedans {
+  background-color: #fe8b05;
+  margin: 30px 0px;
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  width: 250px;
+  cursor: pointer;
+}
+
+.Imagen-sedans {
+  padding: 20px 20px 0px 30px;
+  margin: 10px;
+
+}
+
+.h2-sedans {
+  font-size: 40px;
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 50px 20px;
+  font-weight: 700px;
+  border-top-left-radius: 15px;
+}
+
+.paragrafo-sedans {
+  text-align: center;
+  margin: 50px 0px 50px 0px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400px;
+}
+
+
+.button-sedans {
+  cursor: pointer;
+  text-align: center;
+  padding: 15px 20px;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  background-color: #FCC302;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-bottom: 15px
+}
+
+
+
+.segunda-div-suvs {
+  background-color: #036564;
+  margin: 30px 0px;
+  width: 250px;
+  cursor: pointer;
+}
+
+.Imagen-suvs {
+  padding: 20px 20px 0px 30px;
+  margin: 10px;
+}
+
+.h2-suvs {
+  font-size: 40px;
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 50px 20px;
+  font-weight: 700px;
+}
+
+.paragrafo-suvs {
+  text-align: center;
+  margin: 50px 0px 50px 0px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400px;
+}
+
+.button-suvs {
+  cursor: pointer;
+  text-align: center;
+  padding: 15px 20px;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  background-color: #FCC302;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-bottom: 15px
+}
+
+.terceira-div-luxury {
+  background-color: #033649;
+  margin: 30px 0px;
+  border-top-right-radius: 30px;
+  border-bottom-right-radius: 30px;
+  width: 250px;
+  cursor: pointer;
+}
+
+.Imagen-luxurys {
+  padding: 20px 20px 0px 30px;
+  margin: 10px;
+}
+
+.h2-luxury {
+  font-size: 40px;
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 50px 20px;
+  font-weight: 700px;
+  border-bottom: 15px;
+}
+
+.paragrafo-luxury {
+  text-align: center;
+  margin: 50px 0px 50px 0px;
+  font-family: 'Nunito Sans', sans-serif;
+  font-weight: 400px;
+}
+
+.button-luxury {
+  cursor: pointer;
+  text-align: center;
+  padding: 15px 20px;
+  border: 1px solid #eee;
+  border-radius: 20px;
+  background-color: #FCC302;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-bottom: 15px;
+}

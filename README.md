@@ -1,9 +1,9 @@
 <h1 align="center">
-   Conversor de moedas
+   Pagina de apresentção 
 </h1>
 
 <h4 align="center">
-  Site que efetua a conversão de moeda com atualização constante. 
+  Pagina com intuito de mostrar qual modelo de carro se encaixa no seu estilo de vida!
 </h4>
 
 ## :rocket: Tecnologias

@@ -1,20 +1,46 @@
-<h1 align="center">
-   Pagina de apresentção 
+
+h1 align="center">
+  💻 PAGINA SIMPLES DE HTML E CSS 💻
 </h1>
 
 <h4 align="center">
-  Pagina com intuito de mostrar qual modelo de carro se encaixa no seu estilo de vida!
+  💻UMA PAGINA SIMPLES PARA TREINAR O HTML E CSS
 </h4>
 
-## :rocket: Tecnologias
+<p align="center">   
+   <a href="#sobre">Sobre</a> .
+   <a href="#roadmap">Roadmap</a> .
+   <a href="#tecnologias">Tecnologias</a> .
+   <a href="#fotos">Fotos</a> . 
+   <a href="#autor">Autor</a>
+ </p>
 
-Nesse projeto foi usado as seguintes tecnologias 
 
--  [HTML] Para montar a pagina de forma em que seja facil o acesso. 
--  [CSS] Para fazer a estilizações e deixar a pagina intuitiva, nesse CSS consegui acrescentar algumas coisas que nunca mechi antes.
-
-
-![Captura de tela 2022-02-21 225826](https://user-images.githubusercontent.com/82819804/155230531-ba343fe0-01db-49b5-bb22-5ce4e9d6daf2.png)
-
-Feito por João Soares :wave: [Entre em contato!](https://www.linkedin.com/in/joao-soares-339642215/)
-
+   
+ # Sobre 🗨
+     
+     
+   <p> Esse e um projeto de de uma pagina simples de HTML e CSS para treinar conceitos e por em pratica oque estou aprendendo!! </p>
+   
+   
+   
+   
+   
+   # Roadmap ✔
+   
+   <p> Como estou em fase de aprendizagem precisava treinar mais sobre Html e Css para que possa estar fresco na cabeça quando nescessario </p>
+   
+   
+   # Tecnologias 📰
+   <h3 align="center"> Tecnolgias usadas no projeto </h3>
+  <p>HTML</p>
+  <p>CSS</p>
+  
+   
+   
+   # Fotos 🎴
+   
+   <img>
+   
+   # Autor 🙋‍♂️
+   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/joao-soares-339642215/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>

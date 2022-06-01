@@ -17,7 +17,7 @@ h1 align="center">
 
 
    
- # Sobre 🗨
+ # Sobre 
      
      
    <p> Esse e um projeto de de uma pagina simples de HTML e CSS para treinar conceitos e por em pratica oque estou aprendendo!! </p>
@@ -26,21 +26,21 @@ h1 align="center">
    
    
    
-   # Roadmap ✔
+   # Roadmap 
    
    <p> Como estou em fase de aprendizagem precisava treinar mais sobre Html e Css para que possa estar fresco na cabeça quando nescessario </p>
    
    
-   # Tecnologias 📰
+   # Tecnologias 
    <h3 align="center"> Tecnolgias usadas no projeto </h3>
   <p>HTML</p>
   <p>CSS</p>
   
    
    
-   # Fotos 🎴
+   # Fotos 
    
    <img src="./images/img projeto.JPG" >
    
-   # Autor 🙋‍♂️
+   # Autor 
    <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/joao-soares-339642215/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>

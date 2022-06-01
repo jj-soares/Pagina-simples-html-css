@@ -40,7 +40,7 @@ h1 align="center">
    
    # Fotos 🎴
    
-   <img>
+   <img src="./images/img projeto.JPG" >
    
    # Autor 🙋‍♂️
    <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/joao-soares-339642215/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>

@@ -1,5 +1,5 @@
 
-h1 align="center">
+<h1 align="center">
   💻 PAGINA SIMPLES DE HTML E CSS 💻
 </h1>
 

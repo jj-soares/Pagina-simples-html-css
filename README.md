@@ -1,46 +1,51 @@
 
 <h1 align="center">
-  💻 PAGINA SIMPLES DE HTML E CSS 💻
+  💻 SIMPLE PAGE OF HTML AND CSS 💻
 </h1>
 
 <h4 align="center">
-  💻UMA PAGINA SIMPLES PARA TREINAR O HTML E CSS
+  💻 A SIMPLE PAGE TO TRAIN HTML AND CSS
 </h4>
 
-<p align="center">   
-   <a href="#sobre">Sobre</a> .
-   <a href="#roadmap">Roadmap</a> .
-   <a href="#tecnologias">Tecnologias</a> .
-   <a href="#fotos">Fotos</a> . 
-   <a href="#autor">Autor</a>
- </p>
-
-
-   
- # Sobre 
-     
-     
-   <p> Esse e um projeto de de uma pagina simples de HTML e CSS para treinar conceitos e por em pratica oque estou aprendendo!! </p>
-   
-   
-   
-   
-   
-   # Roadmap 
-   
-   <p> Como estou em fase de aprendizagem precisava treinar mais sobre Html e Css para que possa estar fresco na cabeça quando nescessario </p>
-   
-   
-   # Tecnologias 
-   <h3 align="center"> Tecnolgias usadas no projeto </h3>
-  <p>HTML</p>
-  <p>CSS</p>
-  
-   
-   
-   # Fotos 
+ 
+## Photo 🎴
    
    <img src="./images/img projeto.JPG" >
+
+<p align="center">   
+   <a href="#On">On</a> .
+   <a href="#Roadmap">Roadmap</a> .
+   <a href="#Technologies">Technologies</a> .
+   <a href="#Photos">Photos</a> . 
+   <a href="#Author">Author</a> 
    
-   # Autor 
-   <p>Ola, meu nome e Joao. <br> Me siga no <a href="https://www.linkedin.com/in/jo%C3%A3o-soares13/" target="_blank">Linkedin</a> para ver mais sobre os projeos que posto.!</p>
+ </p>
+
+   
+ ## On ✔
+     
+     
+   <p> This is a simple HTML and CSS one page project to train concepts and put into practice what I'm learning!! </p>
+   
+   
+   
+   
+   
+ ## Roadmap 🗺
+   
+   <p> As I am in the learning phase, I needed to train more on Html and CSS so that I can be fresh in my head when needed ! </p>
+   
+   
+ ## Technologies 🚀
+  <h3 align="center"> Technologies used in the project 🙃 </h3>
+  
+  <img src='./images/computer1.gif' alt='gif-de-computador' align='right' width='20%'/>
+  
+ - [HTML]( https://www.w3schools.com/html/)
+ - [CSS](https://www.w3schools.com/css/)
+
+  
+   
+## Author 🙋🏾‍♂️
+   <p> Hello, my name is João. <br> Follow me on <a href="https://www.linkedin.com/in/joaosoaressilva/" target="_blank">Linkedin</a> to see more about the projects I post.!</p>
+
